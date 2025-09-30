@@ -1,0 +1,358 @@
+2025 Ontario Teachers’ Finance Trust  
+Green Bond Report  
+
+The Ontario Teachers’ Pension Plan Board (Ontario Teachers’ or OTPPB) guarantees the bonds, fully and unconditionally, issued by Ontario Teachers’ Finance Trust (OTFT) and manages $266.3 billion in net assets as of December 31, 2024. Ontario Teachers’ invests for, and administers the pensions of, 343,000 working members and pensioners.  
+
+Our approach to sustainable investing is rooted in the belief that our effectiveness in managing sustainability-related risks and opportunities is an important component to our long-term success and profitability. As a long-term and global investor, Ontario Teachers’ is an active steward and engaged owner of businesses.  
+
+Our Sustainable Investing Guidelines provide a full description of our definition, approach and framework and can be found on our website.  
+
+Table of Contents  
+Our 2025 Green Bond Report  
+Green Bond Framework  
+Green Bond Issuance and Register  
+Issuance Details  
+
+Green Bond Register  
+Impact Reporting  
+Impact Metrics by Category and Ownership  
+Impact Metrics Measurement, Calculation and Commentary  
+Green Asset Case Studies  
+Cautionary Statement  
+Contact Us  
+
+2025 ONTARIO TEACHERS’ FINANCE TRUST – GREEN BOND REPORT  
+
+Our 2025 Green Bond Report  
+OTFT, a wholly owned subsidiary of Ontario Teachers’, is an established global issuer with outstanding bonds in U.S. dollars, Euros, Pounds Sterling, and Canadian dollars. The framework is aligned with the International Capital Market Association (ICMA) Green Bond Principles and is summarized on the
+
+TFT’s green bond issuance allows us to access capital to support the investments reviewed by S&P Global Shades of Green, which provides a second-party opinion on the quality of the framework and the governance around how assets are selected. The framework was updated in 2023.
+
+Ontario Teachers’ Green Bond Framework describes four key elements of our green bond issuance: 
+
+i) what assets the proceeds will be used for;  
+ii) how the assets will be selected;  
+iii) how the proceeds will be managed; and  
+iv) how we will report back to bond investors.  
+
+The framework maintained a “Dark Green” assessment by S&P Global Shades of Green, indicating, among other things, overall alignment with the International Capital Market Association’s (ICMA) Green Bond Principles.
+
+Total issued: CAD$3.9 billion  
+Rated:  
+Moody’s: Aa1  
+S&P: AAA  
+DBRS: AAA  
+
+**Green Bond Framework**  
+**Use of Proceeds**  
+Eligible Green Assets are assets that satisfy the criteria as set out in the OTPP Green Bond Framework and have been approved by the Green Council. An internal Green Bond Council regularly assesses Eligible Green Assets with consideration given to: 
+
+- The Eligibility  
+- Process for Asset Management  
+- Reporting on the portfolio of Eligible Green Assets are provided annually:  
+- Allocation and impact of proceeds  
+
+Criteria, which identify Eligible Green Assets, include:
+
+- Allocation reporting
+- Bond Council and inclusion in the Green Bond Register
+- We track Eligible Green Assets through our Green Bond Register
+- Alignment with Ontario Teachers’ Green Investment Principles and the ICMA Green Bond Principles
+- Assets by geography
+
+In the event of unallocated proceeds, funds will be used where feasible in accordance with OTFT’s normal liquidity activities. 
+
+Additionally, ESG considerations are integrated, alongside other factors in the Ontario Teachers’ investment process, to manage risk and add value. 
+
+Eligible Green Assets will be chosen from the following investment categories:
+
+- Renewable Energy
+- Clean Transportation
+- Energy Efficiency
+- Green Buildings
+- Circular Economy
+- Water and Wastewater Management
+- Natural Resources and Land Use
+- Pollution Prevention and Control
+- Climate Change Adaptation
+- Terrestrial and Aquatic Biodiversity
+
+Impact reporting may include qualitative and quantitative environmental and societal performance indicators, where appropriate. Reporting is externally reviewed.
+
+Green Bond Issuance and Register
+
+Issuance Details
+
+OTFT’s inaugural green bond was issued in November 2020.
+
+**Bond Issuances by Currency**
+
+OTFT has completed three additional issuances in both Euros (EUR) and Canadian dollars (CAD). All issuances are detailed in the table below. All amounts are in Canadian dollars unless otherwise stated. Foreign currency amounts were converted to Canadian dollars using the exchange rate as of the issuance date. Eligible Green Assets have been fully allocated to cover the net proceeds of outstanding green bonds.
+
+**GREEN BOND ISSUANCES**  
+(figures expressed in millions)
+
+| Issuance Date      | Maturity Date      | Format  | Currency | Outstanding Size (local currency) | Outstanding Size (CAD equivalent) |
+|---------------------|--------------------|---------|----------|-----------------------------------|------------------------------------|
+| November 25, 2020   | November 25, 2030  | Reg S   | EUR      | €750                              | $1,161                             |
+| November 24, 2021   | November 24, 2051  | Reg S   | EUR      | €500                              | $710                               |
+| November 16, 2022   | June 02, 2032      | Reg S & 144A | CAD  | $1,000                            | $1,000                             |
+| March 01, 2023      | November 01, 2029  | Reg S   | CAD      | $1,000                            | $1,000                             |
+
+Total amount outstanding: $3,871 million
+
+**Green Bond Register**
+
+Below we report on the use of proceeds of OTFT’s green bond issuances and allocation to the portfolio of outstanding Eligible Green Assets within the Green Bond Register. The Green Bond Council is responsible for approving the Eligible Green Assets included in the Green Bond Register. This is in line with the intention to maintain, directly or indirectly, an aggregate amount of Eligible Green Assets that is at least equal to the aggregate net proceeds of all green bond issuances that are currently outstanding.
+
+ELIGIBLE ASSETS BY ICMA CATEGORY  
+December 2024  
+
+Asset Category  
+December 2024  
+December 2023  
+Renewable Energy  
+91%  
+93%  
+
+Natural Resources and Land Use  
+7%  
+n/a  
+
+Climate Change Adaptation  
+1%  
+1%  
+
+Pollution Prevention and Control  
+1%  
+n/a  
+
+Energy Efficiency  
+n/a  
+6%  
+
+Total Eligible Assets ($ millions)  
+$7,954.3  
+$7,485.6  
+
+ELIGIBLE ASSETS BY GEOGRAPHIC REGION  
+December 2024  
+
+Geographic Region  
+December 2024  
+December 2023  
+Europe  
+66%  
+73%  
+
+North America  
+14%  
+15%  
+
+Asia-Pacific  
+12%  
+3%  
+
+South America  
+8%  
+9%  
+
+Total Eligible Assets ($ millions)  
+$7,954.3  
+$7,485.6  
+
+(Note: There were no assets under the Energy Efficiency category in 2024 due to the removal of the associated assets from the Green Bond Register.)  
+
+2025 ONTARIO TEACHERS’ FINANCE TRUST – GREEN BOND REPORT  
+
+Impact Reporting  
+On the next page, we report on certain quantitative and qualitative environmental performance indicators (“impact metrics”) on our Eligible Green Assets. The Eligible Green Assets as of December 31, 2024 fall into four main categories: i) renewable energy generation and transmission, ii) natural resources and land use, iii) climate change adaptation, and iv) pollution prevention and control.  
+
+The Eligible Green Assets continue to be aligned with the principles set out in the EU Taxonomy ‘Do No Significant Harm.’ We make efforts to
+
+Align our impact reporting with market practices and follow ICMA’s Handbook, Harmonised Framework for Impact Reporting (June 2024 edition), to identify relevant impact metrics for each category. Consistent with ICMA’s Framework, we collect and aggregate available impact metrics as reported and/or calculated by Eligible Green Assets in our Green Bond Register. We then allocate impact metrics according to proceeds as a percentage of each asset’s enterprise value. This practice is encouraged by ICMA’s Harmonised Framework for Impact Reporting, and we believe it reflects a conservative approach as the consideration of financing across the capital structure prevents double counting of impact, in the event that our partners or assets themselves issue green bonds.
+
+The table includes the proportionate share of impact based on proceeds as of December 31, 2024. We have also pro-rated impacts attributable to green bond investors. Lastly, we specify which impacts are ex-post, or “after the fact” and based on actual measurements or estimations, and ex-ante, which uses estimates to gauge future performance. All metrics were independently reviewed by S&P Global Shades of Green.
+
+Impact Metrics by Category and Ownership  
+As of December 31, 2024, 49% of impact metrics are attributable to green bond investors. Most assets in our Green Bond Register were operational during 2024, and for these
+
+Assets we provide ex-post metrics. Ex-post impact is based on the aggregated metric from the calendar year indicated. Assets that are starting operations in 2024 or beyond have impact metrics reported on an ex-ante basis. Ex-ante impact is based on annual estimates for an average year once the assets become operational. When assets have both ex-ante and ex-post metrics (i.e., a company has both assets in development and in operation), only ex-post metrics are considered.
+
+Impact metrics attributable to:
+
+**Green Bond Investors Register**  
+(December 31, 2024)  
+(December 31, 2024)  
+(December 31, 2023)  
+
+**Renewable Energy**  
+Renewable energy generated and/or transmitted (GWh)  
+Ex-Post: 15,786 | 32,437 | 26,749  
+Ex-Ante: 2,860 | 5,877 | 2,403  
+
+GHG emissions avoided (tCO2e)  
+Ex-Post: 1,621,648 | 3,332,190 | 2,584,106  
+Ex-Ante: 1,044,052 | 2,145,336 | 936,027  
+
+Battery usable energy capacity (MWh)  
+Ex-Post: 31,597 | 64,926 | 128  
+
+**Energy Efficiency**  
+Energy savings (GWh)  
+n/a | n/a | 2,083  
+
+GHG emissions avoided (tCO2e)  
+n/a | n/a | 575,496  
+
+**Climate Change Adaptation**  
+Water produced and treated (m3)  
+Ex-Post: 503,799 | 1,035,214 | 1,910,842  
+
+**Pollution Prevention and Control**  
+GHG emissions avoided (tCO2e)  
+Ex-Post: 2,401 | 4,934 | n/a  
+
+Pollution avoided (tNO e)  
+Ex-Post: 1 | 1 | n/a  
+
+**Natural Resources and Land Use**  
+GHG emissions removed (tCO2e)  
+Ex-Post: 6,139,448 | 12,615,444 | n/a  
+
+Total surface financed and certified (Ha)  
+Ex-Post: 11,714 | 24,070 | n/a  
+
+Following the portfolio approach, each ICMA category.
+
+may include various portfolio companies or assets. Each asset has at least one impact metric, but not all assets necessarily report on more than one impact metric.
+
+Selected and calculated in accordance with the ICMA Handbook – Harmonised Framework for Impact Reporting (June 2024). Impact metric restated to include correction for conversion errors.
+
+2025 ONTARIO TEACHERS’ FINANCE TRUST – GREEN BOND REPORT
+
+Impact Metrics Measurement, Calculation and Commentary
+
+Detailed below is the methodology, data sources and other information we use when calculating impact metrics. We collect available impact metrics reported and/or calculated by Eligible Green Assets in our Green Bond Register. We also provide commentary about year-over-year changes where relevant.
+
+Impact Metrics Measurement and Calculation Methodology
+
+• Renewable energy generated and/or transmitted and water produced and treated are directly measured by appropriate equipment at the asset level when ex-post metrics are presented, and reported by eligible assets in these categories.
+
+• GHG emissions avoided from the renewable energy category are calculated in accordance with Greenhouse Gas (GHG) protocol, using country- and, when available, state- or provincial-specific emission factors in accordance with the technical guide available to the region. The data sources for the emission factors include the Central Electricity Authority of India; the International Energy Agency; U.S. Government Agencies; Taiwan’s Bureau of Energy.
+
+Energy, Ministry of Economic Affairs; and the United Kingdom Department for Business, Energy and Industrial Strategy (BEIS). Values are presented in tonnes of carbon dioxide equivalent (tCO2e).
+
+Total surface financed and certified is obtained from independent appraisal and certification reports. Certifications for the management system include Well Managed Plantation Certification in accordance with the Forest Stewardship Council’s Principles & Criteria, and third-party assessment in accordance with AS/NZS 4708 (Australian/New Zealand Standard for Sustainable Forest Management). The measurement of GHG emissions removed from the natural resource and land use category is based on eligible assets’ current best estimate from the measurement of timber- and non-timber related carbon stocks.
+
+GHG emissions and/or local pollution avoided from the pollution prevention and control category are calculated and reported by eligible assets using independently reviewed comparative life-cycle assessment (LCA) in accordance with ISO 14040 and ISO 14044.
+
+Ex-ante metrics are based on engineering and technical estimations, which are based on power generation capacity. Actual performance may vary due to weather, demand and/or operational conditions once the assets become operational.
+
+We note that OTFT and OTPP do not account for the carbon avoidance and/or removals reported against their own carbon emissions – i.e., the emissions avoided and removed, as reported, are not netted.
+
+Impact Metrics Analysis
+
+Renewable Energy  
+• The increase in ex-post renewable energy generated and/or transmitted is mainly due to increased output from existing Eligible Green Assets in this category.  
+• Directly linked to the increase in renewable energy generation above, the ex-post GHG emissions avoided also increased in relation to the previous year.  
+• The increase in ex-ante renewable energy generated and/or transmitted is mainly due to green bond proceeds being used to increase Eligible Green Assets in this category. This also resulted in an increase in ex-ante GHG emissions avoided.  
+
+Energy Efficiency  
+• There is no impact metric for 2024 under the Energy Efficiency category due to the removal of the associated assets from the Green Bond Register.  
+
+Climate Change Adaptation  
+• Water produced and treated was lower than the previous year due to a decrease in the annual production request associated with the existing Eligible Green Assets in this category.  
+
+Pollution Prevention and Control  
+• This is a new category added to the Eligible Green Assets.  
+
+Natural Resources and Land Use  
+• This is a new category added to the Eligible Green Assets.  
+
+Green Asset Case Studies  
+The following are examples of Eligible Green Assets included in our Green Bond Register as of December 31, 2024. In 2023, Ontario Teachers’ deployed additional capital to support the operation of Instagrid, a European technology company, in which Ontario Teachers’ acquired a 25% stake in 2022.
+
+Stake investment in Scotland-based SSEN provides an alternative to off-grid power and the 2022 acquisition of a renewable Transmission, an electricity transmission solutions. Its innovative portable battery energy portfolio of approximately 2 gigawatts, comprised of four newly constructed and nine operating wind, solar and energy storage assets across power markets in the U.S. In 2021, OTPP acquired a 50% direct interest in a portfolio of 13 wind, solar and hydro energy storage assets across the U.S., managed by NextEra. Together, these assets have a generating capacity of approximately 4.5 gigawatts. 
+
+SSEN Transmission’s network transports electricity generated from renewable resources – including onshore and offshore wind and hydro – from the north of Scotland to areas of demand across the United Kingdom, thereby supplying this electricity to more than 3.8 million homes and businesses. In addition, those portable battery systems contribute to significantly lower levels of certain local air pollutants during usage if used instead of gasoline or diesel generators. Instagrid’s flagship product serves professionals working in off-grid locations such as construction workers and emergency responders.
+
+events and media crews and trades people needing access to mobile power.
+
+Based on an average user profile as described in the third-party validated lifecycle analysis (LCA): 2023. Critical review of comparative Life Cycle Assessment of a battery power supply system and two new efficient gasoline and diesel generators.
+
+Cautionary Statement
+
+“Green,” “green asset,” “green bonds,” and similar terms in this report refer to OTPP’s internal criteria, not any specific regulatory definitions. Our Green Bond Framework is informed by various laws, guidelines, taxonomies, methodologies, frameworks, market practices, and other standards (collectively, “Standards”).
+
+Given the ongoing evolution of the definition of “green,” these Standards may change over time. If any Standards change significantly, we may need to update our Green Bond Framework and this report, including our categories of Eligible Green Assets.
+
+Because any forward-looking information and statements are based on estimates and assumptions that are subject to significant business, economic, and competitive uncertainties, many of which are beyond Ontario Teachers’ control or are subject to change, actual results or events could be materially different. Although Ontario Teachers’ believes that the estimates and assumptions inherent in the forward-looking information and statements are reasonable, such information and statements are not guarantees of future performance and, accordingly, readers are cautioned not to place undue reliance on them.
+
+Due reliance on such information or statements due to the inherent uncertainty therein. We also made good faith assumptions and estimates in our Green Bond Framework and reporting, including in respect of our impact metrics and reporting. Although we believe these assumptions and estimates are reasonable, they may prove incorrect or inaccurate for reasons we cannot foresee or predict. 
+
+These assumptions and estimates relate to, among other things, the growth, outlook, and strategy of our business, the ability of our portfolio companies to make changes, the feasibility of third-party decarbonization and energy transition scenarios, the development and availability of low-carbon technologies, and the ability of certain assets and activities to displace or remove greenhouse gas emissions or local air pollution. Additionally, they consider economic and political trends, stakeholder participation, and the evolution of legal regimes and policies to address climate change. 
+
+To monitor and report on our Green Bond Framework, we rely on data obtained from our portfolio companies and other third-party sources. Although we believe these sources are reliable, we have not independently verified this data or assessed the assumptions underlying such data, and cannot guarantee its accuracy or completeness. The data may be of varying quality or usefulness and may change over time as standards evolve. These factors could impact and cause us to update our Green Bond Framework and this report.
+
+Assumptions are incorrect, our report may be inaccurate. The standards, metrics, and measurements used are evolving and based on reasonable assumptions at the time of this report but could change or be replaced by alternate standards, metrics, and measurements.
+
+**2025 ONTARIO TEACHERS’ FINANCE TRUST – GREEN BOND REPORT**
+
+**Contact Us**
+
+Toronto  
+Ontario Teachers’ Pension Plan  
+160 Front St West  
+Toronto, Ontario M5J 0G4  
++1 416-228-5900  
+contact@otpp.com  
+
+Singapore  
+Ontario Teachers’ Pension Plan (SEA) Private Limited  
+182 Cecil Street #36-01 Frasers Tower  
+Singapore 069547  
+
+São Paulo  
+Ontario Teachers’ Pension Plan (Brazil) Consultoria Ltda  
+Rua Prof. Atílio Innocenti, 165  
+Vila Nova Conceição  
+São Paulo, SP 04538-000  
+
+London  
+Ontario Teachers’ Pension Plan (Europe) Limited  
+10 Portman Square  
+London W1H 6AZ  
+
+Mumbai  
+Ontario Teachers’ Pension Plan (India)  
+Pandurang Budhkar Marg, Worli Estate  
+Maharashtra 400018  
+
+New York  
+Ontario Teachers’ Pension Plan (USA), LLC  
+277 Park Avenue, 47th Floor  
+New York, NY 10172  
+
+Dallas  
+Ontario Teachers’ Pension Plan (USA), LLC  
+The Texas Capital Bank Building  
+2000 McKinney Avenue, Suite 1220  
+Dallas, TX 75201  
+
+Hong Kong  
+Ontario Teachers’ Pension Plan (Asia) Limited  
+安大略省教師退休金計劃（亞洲）有限公司  
+Alexandra House  
+18 Chater Road, Central  
+Hong Kong  
+
+San Francisco  
+Ontario Teachers’ Pension Plan (USA), LLC  
+633 Battery Street, Suite 110  
+San Francisco, CA 94111  
+
+www.otpp.com  
+otpp.com/linkedin  
+
+OND REPORT
