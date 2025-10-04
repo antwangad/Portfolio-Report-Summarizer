@@ -56,9 +56,6 @@ def call_gpt(system_prompt, user_prompt, model, max_tokens):
 
     return {"text": text, "usage": usage}
 
-def chunk_text(text, max_chars):
-    return [text[i:i+max_chars] for i in range(0, len(text), max_chars)]
-
 def extract_text_from_pdf(filename):
     text = ""
     with pdfplumber.open(filename) as pdf:
